@@ -1,14 +1,12 @@
-// This changes the title of your site
 
-var sitename = "native."; // Change this to change the name of your website.
-var subtext = "v1.2"; // set the subtext
 
-// more settings in main.css
+var sitename = "Forgeislol.";
+var subtext = "v1.2"; 
 
 
 
-// END CONFIG
-// DO NOT MODIFY IF YOU DO NOT KNOW WHAT YOUR DOING!
+
+
 
 import "/./config/custom.js";
 
